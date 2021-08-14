@@ -731,10 +731,7 @@ progress[value]::-webkit-progress-value {
   }
   /* banner end */
   /* about start */
-  .about {
-  }
-  .about .title {
-  }
+
   .about .content {
     overflow-x: auto;
     height: 300px;
