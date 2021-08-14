@@ -383,6 +383,7 @@ progress[value]::-webkit-progress-value {
   color: var(--title-color);
   width: max-content;
   position: relative;
+  text-transform: capitalize;
 }
 .education .content .title::before {
   content: "";
