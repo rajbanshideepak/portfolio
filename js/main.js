@@ -32,3 +32,9 @@ window.onscroll=()=>{
         // banner.classList.remove('bgcolor')
     }
 }
+
+window.onload=()=>{
+    setTimeout(() => {
+        document.getElementById('loader').style.display='none'
+    }, 500);
+}
