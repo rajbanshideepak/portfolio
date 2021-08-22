@@ -743,6 +743,7 @@ progress[value]::-webkit-progress-value {
     overflow-y: auto;
     overflow-x: hidden;
     padding-bottom: 10px;
+    z-index: 10000;
   }
   .navbar.show .menu_list {
     left: 0%;
