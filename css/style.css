@@ -655,8 +655,8 @@ progress[value]::-webkit-progress-value {
   display: flex !important;
   justify-content: space-around !important;
   flex-wrap: wrap !important;
-  background: #2c3547 !important !important;
-  margin-top: -8px !important !important;
+  background: #2c3547 !important ;
+  margin-top: -8px !important ;
   padding: 25px !important;
 }
 .btn {
