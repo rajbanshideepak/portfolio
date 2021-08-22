@@ -668,7 +668,7 @@ progress[value]::-webkit-progress-value {
   padding: 5px 10px !important;
   font-size: 20px !important;
   position: relative !important;
-  z-index: 1 !important;
+  z-index: 1;
   margin: 10px !important;
 }
 .btn::before {
@@ -862,7 +862,7 @@ progress[value]::-webkit-progress-value {
   }
   /* contact end */
   .btn {
-    z-index: -1;
+    z-index: 0;
   }
 }
 @media only screen and (max-width: 459px) {
