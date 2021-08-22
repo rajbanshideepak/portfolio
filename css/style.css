@@ -629,7 +629,7 @@ progress[value]::-webkit-progress-value {
   border: 1px solid #ed4c67;
   transition: border 3ms linear;
 }
-.contact .content .contact-form .form-group .btn {
+.contact .content .contact-form .form-group .btn1 {
   width: 100%;
   padding: 10px !important;
   border-radius: 10px;
@@ -642,7 +642,7 @@ progress[value]::-webkit-progress-value {
   cursor: pointer;
   /* z-index: -1; */
 }
-.contact .content .contact-form .form-group .btn:hover {
+.contact .content .contact-form .form-group .btn1:hover {
   box-shadow: 1px 1px 5px #ed4c67;
   background: #ed4c67;
   transition: all 3s ease-in-out;
