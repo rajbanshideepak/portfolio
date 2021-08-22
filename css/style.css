@@ -861,6 +861,9 @@ progress[value]::-webkit-progress-value {
     border-radius: 10px;
   }
   /* contact end */
+  .btn {
+    z-index: -1;
+  }
 }
 @media only screen and (max-width: 459px) {
   /* For desktop: */
