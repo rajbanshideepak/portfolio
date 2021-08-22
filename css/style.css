@@ -522,6 +522,13 @@ progress[value]::-webkit-progress-value {
 .portfolio .items .pro-desc {
   text-align: center;
 }
+.portfolio .items .pro-desc h4 {
+  /* letter-spacing: ; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "Ubuntu Mono", monospace !important;
+}
 .portfolio img {
   width: 100%;
   height: 250px;
