@@ -777,7 +777,7 @@ progress[value]::-webkit-progress-value {
   /* banner */
   .banner {
     width: 100vw;
-    background-position: 100% 100%;
+    background-position: 52% 100%;
     background-size: cover;
   }
   .banner .myinfo {
